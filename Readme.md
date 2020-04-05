@@ -4,7 +4,7 @@ Given the uncertain world situation become a challenge for stockbrokers or for p
 
 
 ### Dataset
-Dataset is taken from yahoo!finance from 1990-04-06 - 2020-04-03  
+Dataset is taken from [yahoo!finance](https://finance.yahoo.com/quote/%5EJKSE/history?period1=639360000&period2=1585872000&interval=1d&filter=history&frequency=1d) from 1990-04-06 - 2020-04-03  
 Data Training : 70 data   
 Data Predict  : 2200 data
 
